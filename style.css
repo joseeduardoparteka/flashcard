@@ -9,4 +9,14 @@ background-color: bisque;
     background-color: aqua;
     height: 20rem;
     flex-grow: calc(33% -6rem);
+} 
+
+
+.cartao_conteudo{
+    text-align: center;
+    height: 100%;
+}
+
+.cartao_conteudo h3 {
+    background-color: tomato;
 }
