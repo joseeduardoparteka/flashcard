@@ -6,4 +6,7 @@ background-color: bisque;
 }
 .cartao {
     margin: 1rem 1rem;
+    background-color: aqua;
+    height: 20rem;
+    flex-grow: calc(33% -6rem);
 }
