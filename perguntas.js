@@ -24,8 +24,8 @@ criaCartao(
 
 criaCartao(
     'Programação',
-    'Qual a finalidade da variável em javascript?',
-    'Armazenar valores aleatórios a serem transcritos no html'
+    'Qual o conceito de aprender?',
+    'processo de adquirir habilidades, atitudes e valores, crenças e informações'
 )
 
 
