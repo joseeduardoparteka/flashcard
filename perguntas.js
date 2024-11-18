@@ -31,6 +31,6 @@ criaCartao(
 
 criaCartao(
     'Programação',
-    'Qual a finalidade da variável em javascript?',
-    'Armazenar valores aleatórios a serem transcritos no html'
+    'quantos dias tem um ano bissexto?',
+    'um ano bissexto tem 366 dias, 1 a mais que um ano comum'
 )
